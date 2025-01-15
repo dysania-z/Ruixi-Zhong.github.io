@@ -1,13 +1,13 @@
-- National Scholarship of Graduate Student, 2024.
+- First Prize in the National Finals of the National College Student IoT Design Competition (Huawei Cup),2024.
 
-- First-prize Scholarship of CUMT, 2024.
+- Passed the evaluation of the China Scholarship Council (CSC) and received the oversea exchange qualification,2024.
 
-- First-prize Scholarship of CUMT, 2023.
+- CET-4: 623, CET-6: 592
 
-- Freshman Scholarship of CUMT, 2022.
+- Obtained the certification of Level 5 of Public English Test System(PETS),2023
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- Received several First-Class Academic Scholarships and individual Awards (Academic Innovation Award),2024
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+- Participated Provincial-Level Project in the Student Innovation Training Program(SIT),2024
 
-- First-prize Scholarship of CUMT, 2019.
+- Awards in the University Sports Meet,2023

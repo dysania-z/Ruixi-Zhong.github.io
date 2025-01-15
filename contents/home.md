@@ -1,17 +1,15 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/dysania-z)
+[![dysania-z](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/dysania-z)
 
 #### About Me
 I am currently an undergraduate student majoring in Computer Science and Technology at Hunan University, a prestigious 985 Project university in China.\
-I am fortunate to have built a solid professional foundation through my past studies and project experiences, and I am deeply passionate about further advancing my knowledge in computer science.\
+I am fortunate to have built a solid professional foundation through my past studies and project experiences, and I am deeply passionate about further advancing my knowledge in computer science!
 <p>
 <a href="docs/resume of Ruixi Zhong.pdf" target="_blank">Click here to view my resume </a>
-</p>
-<iframe src="docs/resume of Ruixi Zhong.pdf" width="100%" height="600px"></iframe>
 
 #### Email
-[kroot100@gmail.com](mailto:kroot100@gmail.com)
+✉️ [kroot100@gmail.com](mailto:kroot100@gmail.com)
 
 #### Education
 M.E., Computer Science and Technology, Hunan University, 2023-2026 (expected).\

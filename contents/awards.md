@@ -2,7 +2,9 @@
 
 - Passed the evaluation of the China Scholarship Council (CSC) and received the oversea exchange qualification,2024.
 
-- CET-4: 623, CET-6: 592
+- CET-6: 592,2024
+
+- CET-4：623,2023
 
 - Obtained the certification of Level 5 of Public English Test System(PETS),2023
 

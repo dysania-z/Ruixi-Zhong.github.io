@@ -1,6 +1,6 @@
 
 
-[![dysania-z](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/dysania-z)
+[![dysania-z](https://img.shields.io/badge/dysania-z-github-blue?logo=github)](https://github.com/dysania-z)
 
 #### About Me
 I am currently an undergraduate student majoring in Computer Science and Technology at Hunan University, a prestigious 985 Project university in China.\

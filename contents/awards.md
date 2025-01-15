@@ -8,7 +8,7 @@
 
 - Obtained the certification of Level 5 of Public English Test System(PETS),2023
 
-- Received several First-Class Academic Scholarships and individual Awards (Academic Innovation Award),2024
+- HNU First-Class Academic Scholarships and individual Awards (Academic Innovation Award),2024
 
 - Participated Provincial-Level Project in the Student Innovation Training Program(SIT),2024
 
